@@ -52,7 +52,7 @@
                         <div>
                             <h3 class="mb-0 pb-0 fs-20">{!! $OrderCount !!}</h3>
                             <p class="mb-0 pb-0 pt-0">Total No. of
-                                Order Placed</p>
+                                Order Placed</p> 
                         </div>
                         <div>
                             <img src="assets/img/order-delivery.svg" alt=""/>
